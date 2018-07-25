@@ -1,4 +1,4 @@
-# Medulloblastoma Proteomics Cohort Expansion Analyses
+# Medulloblastoma Proteomics SHH Cohort Expansion Analyses
 
 **Author**: Clarence Mah<br>
 **Email**: ckmah@ucsd.edu
